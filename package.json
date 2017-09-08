@@ -1,12 +1,12 @@
 {
-  "name": "nae",
+  "name": "beer",
   "version": "1.0.0",
-  "description": "virtual keyboard",
+  "description": "search beer",
   "main": "index.js",
   "scripts": {
-    "transpile": "babel --presets es2015 js/index.js -o build/main.bundle.js",
-    "start": "http-server"
-  },
+  "transpile": "babel --presets es2015 js/main.js -o build/main.bundle.js",
+  "start": "http-server"
+},
   "author": "Chanapat Pradyawong",
   "license": "ISC",
   "devDependencies": {

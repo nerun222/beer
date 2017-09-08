@@ -1,0 +1,58 @@
+body {
+    background-image : url("https://static1.squarespace.com/static/5759eb66f850825cdd4defba/t/577ed1f5d482e9a42759c88a/1467929081439/beer.jpg?format=1500w");
+}
+
+.box {
+   /* width: 60%;
+    height: 50%;*/
+    background-color: none;
+    margin: 30px auto 15px auto;
+    padding: 20px;
+    border-radius: 100px;
+}
+
+.type {
+    margin-top: 40px;
+}
+
+th {
+
+    padding: 5px;
+}
+
+.cell_padding {
+    padding: 20px;
+}
+
+.header {
+    width: 120px;
+    padding-left: 10px;
+}
+
+.area {
+    border-collapse: collapse;
+    width: 90%;
+    margin: 0px auto auto auto;
+    text-align: left;
+}
+
+.input {
+   width: 150px;
+}
+
+#table_result {
+    background-color: orange;
+    width: 100%;
+   /* margin: auto auto auto auto;*/
+    border-radius: 10px;
+}
+
+.btn_search {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.button_search {
+	padding-left: 100px;
+    width: 100%;
+}
